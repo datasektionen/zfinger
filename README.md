@@ -34,7 +34,7 @@ Information displayed in `hodis` is `ugKthid`,`uid`,`cn`,`mail`,`givenName`,`dis
 Depends on login, hodis is refered to but not integral.
 
 ## Development
-With docker installed, run `docker-compose up --build`, <localhost.datasektionen.se:8000> will be the local development version.
+With docker installed, run `docker-compose up --build`, <localhost.datasektionen.se:5000> will be the local development version.
 Will look for ENV in a file called variables.env.
 
 ## Production
