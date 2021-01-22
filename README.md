@@ -17,7 +17,7 @@ React app that talks to a RESTful-ish API written in Python/Flask.
 
 If log-in is required, user will be redirected to `login.kth.se` if not already.
 
-Information displayed in `hodis` is `ugKthid`,`uid`,`on`,`mail`,`givenName`,`displayName`,`year` and`tag`.
+Information displayed in `hodis` is `ugKthid`,`uid`,`cn`,`mail`,`givenName`,`displayName`,`year` and`tag`.
 
 ## Required environment variables:
 ```
